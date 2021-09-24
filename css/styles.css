@@ -1,0 +1,22 @@
+.header {
+  background-color: rgba(211, 211, 211, 0.158);
+}
+
+.pokemon-img {
+  object-fit: cover;
+}
+
+.site-nav__item {
+  width: 250px;
+  border: 2px solid rgba(0, 0, 0, 0.308);
+  padding: 30px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.site-nav__item:hover {
+  box-shadow: 2px 18px 15px 12px #888888;
+  background-color: rgba(134, 134, 134, 0.185);
+  color: rgb(0, 0, 0);
+  border: 2px solid transparent;
+}
